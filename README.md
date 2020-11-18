@@ -19,7 +19,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/tmp(7).pdf" style="text-decoration:none;">Improving Topic Models with Latent Feature Word Representations</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/tmp(8).pdf" style="text-decoration:none;"> A Novel Neural Topic Model and Its Supervised Extension </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/tmp(9).pdf" style="text-decoration:none;">TopicalWord Embeddings</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/tmp(9).pdf" style="text-decoration:none;">Topical Word Embeddings</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Topic-Modeling-Papers/blob/master/tmp(10).pdf" style="text-decoration:none;">Correlated Topic Models </a></li>                              
